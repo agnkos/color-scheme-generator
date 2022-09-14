@@ -7,7 +7,7 @@ Project screen:
 
 **Project page**:
 
-[Color scheme generator]()
+[Color scheme generator](https://agnkos.github.io/color-scheme-generator/)
 
 #### Project description:
 Work with [The Color API](https://www.thecolorapi.com/)
